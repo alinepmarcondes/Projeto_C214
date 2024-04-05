@@ -11,7 +11,7 @@ O objetivo principal é melhorar a experiência do usuário, reduzir o tempo de 
 **Front end:**  React   |   **Back end:** Node.js   |   **Persistência:** Mongo DB
 
 
-## Authors
+## Contributors
 
 - [@alinepmarcondes](https://github.com/alinepmarcondes)
 - [@PedroBorem](https://github.com/PedroBorem)
